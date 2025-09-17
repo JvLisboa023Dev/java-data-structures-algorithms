@@ -81,3 +81,6 @@ build/
 
 # virtual machine crash logs
 hs_err_pid*
+
+# Ignore Gradle build output directory
+build
