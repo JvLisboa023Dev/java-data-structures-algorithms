@@ -1,6 +1,7 @@
-package org.structure.stack_singly.service;
+package org.structures.singly_linked_list;
 
-import org.structure.stack_singly.service.impl.SinglyLinkedStackService;
+import org.structures.singly_linked_list.service.SingleLinkedList;
+import org.structures.singly_linked_list.service.impl.SinglyLinkedSingleLinkedList;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -8,7 +9,7 @@ import java.util.Scanner;
 public class SinglyStackMain {
 
     public static void main(String[] args) {
-        StackService stack = new SinglyLinkedStackService();
+        SingleLinkedList stack = new SinglyLinkedSingleLinkedList();
         Scanner keyboard = new Scanner(System.in);
         int choice;
 

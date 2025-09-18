@@ -1,5 +1,5 @@
 // Local: app/src/main/java/org/structure/stack_singly/model/SinglyNode.java
-package org.structure.stack_singly.model;
+package org.structures.singly_linked_list.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

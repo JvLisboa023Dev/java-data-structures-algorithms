@@ -1,6 +1,6 @@
-package org.structure.stack_singly.service;
+package org.structures.singly_linked_list.service;
 
-public interface StackService {
+public interface SingleLinkedList {
     boolean isEmpty();
 
     void push(String data);

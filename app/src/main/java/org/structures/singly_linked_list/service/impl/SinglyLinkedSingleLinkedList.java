@@ -1,12 +1,12 @@
-package org.structure.stack_singly.service.impl;
+package org.structures.singly_linked_list.service.impl;
 
-import org.structure.stack_singly.model.SinglyNode;
-import org.structure.stack_singly.service.StackService;
+import org.structures.singly_linked_list.model.SinglyNode;
+import org.structures.singly_linked_list.service.SingleLinkedList;
 
-public class SinglyLinkedStackService implements StackService {
+public class SinglyLinkedSingleLinkedList implements SingleLinkedList {
     private SinglyNode top;
 
-    public SinglyLinkedStackService() {
+    public SinglyLinkedSingleLinkedList() {
         this.top = null;
     }
 
