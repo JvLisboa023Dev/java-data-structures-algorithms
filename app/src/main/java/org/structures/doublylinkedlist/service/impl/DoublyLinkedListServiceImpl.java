@@ -1,7 +1,7 @@
-package org.structures.doubly_linked_list.service.impl;
+package org.structures.doublylinkedlist.service.impl;
 
-import org.structures.doubly_linked_list.model.Node;
-import org.structures.doubly_linked_list.service.DoublyLinkedListService;
+import org.structures.doublylinkedlist.model.Node;
+import org.structures.doublylinkedlist.service.DoublyLinkedListService;
 
 public class DoublyLinkedListServiceImpl implements DoublyLinkedListService {
 

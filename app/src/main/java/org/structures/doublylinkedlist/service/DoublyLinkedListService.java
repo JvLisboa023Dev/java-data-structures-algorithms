@@ -1,5 +1,5 @@
 
-package org.structures.doubly_linked_list.service;
+package org.structures.doublylinkedlist.service;
 
 public interface DoublyLinkedListService {
     void addAfterCurrent(String data);

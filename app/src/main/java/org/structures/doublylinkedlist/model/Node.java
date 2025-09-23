@@ -1,4 +1,4 @@
-package org.structures.doubly_linked_list.model;
+package org.structures.doublylinkedlist.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

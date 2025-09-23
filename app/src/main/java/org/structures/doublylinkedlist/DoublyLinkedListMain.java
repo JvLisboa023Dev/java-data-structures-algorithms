@@ -1,7 +1,7 @@
-package org.structures.doubly_linked_list;
+package org.structures.doublylinkedlist;
 
-import org.structures.doubly_linked_list.service.DoublyLinkedListService;
-import org.structures.doubly_linked_list.service.impl.DoublyLinkedListServiceImpl;
+import org.structures.doublylinkedlist.service.DoublyLinkedListService;
+import org.structures.doublylinkedlist.service.impl.DoublyLinkedListServiceImpl;
 import java.util.Scanner;
 
 public class DoublyLinkedListMain {
