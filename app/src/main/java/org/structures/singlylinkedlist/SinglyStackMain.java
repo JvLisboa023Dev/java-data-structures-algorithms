@@ -1,7 +1,7 @@
-package org.structures.singly_linked_list;
+package org.structures.singlylinkedlist;
 
-import org.structures.singly_linked_list.service.SingleLinkedList;
-import org.structures.singly_linked_list.service.impl.SinglyLinkedSingleLinkedList;
+import org.structures.singlylinkedlist.service.SingleLinkedList;
+import org.structures.singlylinkedlist.service.impl.SinglyLinkedSingleLinkedList;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

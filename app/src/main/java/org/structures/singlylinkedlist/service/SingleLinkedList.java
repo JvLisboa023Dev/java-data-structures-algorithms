@@ -1,4 +1,4 @@
-package org.structures.singly_linked_list.service;
+package org.structures.singlylinkedlist.service;
 
 public interface SingleLinkedList {
     boolean isEmpty();

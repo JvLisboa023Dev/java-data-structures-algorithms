@@ -1,7 +1,7 @@
-package org.structures.singly_linked_list.service.impl;
+package org.structures.singlylinkedlist.service.impl;
 
-import org.structures.singly_linked_list.model.SinglyNode;
-import org.structures.singly_linked_list.service.SingleLinkedList;
+import org.structures.singlylinkedlist.model.SinglyNode;
+import org.structures.singlylinkedlist.service.SingleLinkedList;
 
 public class SinglyLinkedSingleLinkedList implements SingleLinkedList {
     private SinglyNode top;
