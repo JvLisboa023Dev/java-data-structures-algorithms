@@ -43,7 +43,7 @@ Below is the complete list of implemented concepts, each with a practical use ca
 | **Stack** | Undo History in a Text Editor | LIFO (Last-In, First-Out) data management                   |
 | **Queue** | Print Job Management      | FIFO (First-In, First-Out) data processing                  |
 | **Doubly Linked List** | Browser History Simulator   | Bidirectional navigation and efficient insertions/deletions |
-| **HashMap** | Student Waiting List      | Fast key-value access and retrieval (Average $O(1)$)          |
+| **HashMap** | Student Waiting List      | Fast key-value access and retrieval (Average <i>O(1)</i>)          |
 | **LinkedHashMap** | E-commerce Shopping Cart  | Preservation of insertion order                             |
 | **TreeMap** | Event Calendar            | Automatic sorting of entries based on natural key order     |
 
@@ -53,8 +53,8 @@ Below is the complete list of implemented concepts, each with a practical use ca
 
 | Algorithm       | Use Case Example       | Key Feature Demonstrated                             |
 | --------------- | ---------------------- | ---------------------------------------------------- |
-| **Linear Search** | Product Stock Search   | Simplicity and effectiveness on unsorted data ($O(n)$) |
-| **Binary Search** | Library Catalog Lookup | High efficiency on sorted data ($O(\log n)$)         |
+| **Linear Search** | Product Stock Search   | Simplicity and effectiveness on unsorted data (<i>O(n)</i>) |
+| **Binary Search** | Library Catalog Lookup | High efficiency on sorted data (<i>O(log n)</i>)         |
 
 ---
 
@@ -65,9 +65,8 @@ Below is the complete list of implemented concepts, each with a practical use ca
 | **Bubble Sort** | Simple Game Leaderboard     | Simplicity and visual demonstration of adjacent swaps         |
 | **Selection Sort** | File Sorting by Size      | Finding minimum elements and minimizing swaps                 |
 | **Insertion Sort** | Sorting a Hand of Cards   | Efficiency on small or nearly-sorted datasets                 |
-| **Merge Sort** | Combining E-commerce Orders | "Divide and Conquer" with guaranteed $O(n \log n)$ performance |
-| **Quick Sort** | Sorting Auction Items by Bids | High average-case performance ($O(n \log n)$), in-place sorting |
-
+| **Merge Sort** | Combining E-commerce Orders | "Divide and Conquer" with guaranteed <i>O(n log n)</i> performance |
+| **Quick Sort** | Sorting Auction Items by Bids | High average-case performance (<i>O(n log n)</i>), in-place sorting |
 ---
 
 ## Tech Stack
