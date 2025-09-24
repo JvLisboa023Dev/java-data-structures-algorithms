@@ -16,8 +16,11 @@ public class LinearSearchMain {
         productList.add(new Product("LAP-001", "Gaming Laptop", 50));
         productList.add(new Product("CAM-004", "Webcam HD", 120));
 
+        System.out.println("--- Current Product Stock (Unsorted) ---");
+        productList.forEach(product -> System.out.println("SKU: " + product.getSku() + ", Name: " + product.getName()));
+
         Scanner scanner = new Scanner(System.in);
-        System.out.println("--- Product Stock Search (Linear Search) ---");
+        System.out.println("\n--- Product Stock Search (Linear Search) ---");
         System.out.print("Enter the product SKU to find (ex: MON-001): ");
         String skuToFind = scanner.nextLine();
 
